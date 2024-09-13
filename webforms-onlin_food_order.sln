@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webforms-onlin_food_order", "webforms-onlin_food_order\webforms-onlin_food_order.csproj", "{A39CAFFD-D9CE-4BDC-87A0-0B5596A3AA19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39CAFFD-D9CE-4BDC-87A0-0B5596A3AA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39CAFFD-D9CE-4BDC-87A0-0B5596A3AA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39CAFFD-D9CE-4BDC-87A0-0B5596A3AA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39CAFFD-D9CE-4BDC-87A0-0B5596A3AA19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55052D06-A195-4E55-B693-B6B370AA3453}
+	EndGlobalSection
+EndGlobal
